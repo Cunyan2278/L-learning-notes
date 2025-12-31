@@ -1,3 +1,8 @@
+## 📚 学习来源与致谢
+本项目是跟随 [JavaScript 30](https://javascript30.com/) 课程的 **“JavaScript Drum Kit”** 练习所完成。
+- **教程作者**：Wes Bos
+- **代码实现**：在理解课程核心思路后独立编写完成。
+- **音频资源**：使用了课程提供的原始鼓点音效文件。
 #JS-01-drum-kit（鼓点模拟器）
 ##这是JavaScript30天挑战的第一个项目。
 ##实现功能
