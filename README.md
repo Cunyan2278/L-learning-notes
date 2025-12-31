@@ -8,3 +8,4 @@ My frontend learning journey and project portfolio
 - 掌握 Vue.js 框架
 - 构建完整的个人项目
 # 📂 学习笔记导航
+- [🥁 01 - JS 鼓点模拟器](https://github.com/Cunyan2278/L-learning-notes/tree/main/projects/js-01-drum-kit)
